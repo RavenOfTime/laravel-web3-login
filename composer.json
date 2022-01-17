@@ -18,14 +18,14 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/auth": "^8.0",
-        "illuminate/config": "^8.0",
-        "illuminate/contracts": "^8.0",
-        "illuminate/database": "^8.0",
-        "illuminate/http": "^8.0",
-        "illuminate/support": "^8.0",
-        "illuminate/validation": "^8.0",
-        "kornrunner/keccak": "^1.1",
+        "illuminate/auth": "^7.0",
+        "illuminate/config": "^7.0",
+        "illuminate/contracts": "^7.0",
+        "illuminate/database": "^7.0",
+        "illuminate/http": "^7.0",
+        "illuminate/support": "^7.0",
+        "illuminate/validation": "^7.0",
+        "kornrunner/keccak": "^1.0",
         "simplito/elliptic-php": "^1.0"
     },
     "autoload": {
